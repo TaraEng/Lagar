@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IGam+MoSQ0UZb5KntlD3gKy8X5rDkCjFhndPC8cTFaoZjgExUnr38kY6H0EOAcgS/VqaJtYxELhHjliYJDx8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i\\source\\repos\\TaraProduct\\TaraProduct\\TaraProduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.exe
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.csprojAssemblyReference.cache
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.AssemblyInfoInputs.cache
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.AssemblyInfo.cs
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.deps.json
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.runtimeconfig.json
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.runtimeconfig.dev.json
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.dll
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\TaraProduct.pdb
+C:\Users\i\source\repos\TaraProduct\TaraProduct\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.csproj.CopyComplete
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.dll
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.pdb
+C:\Users\i\source\repos\TaraProduct\TaraProduct\obj\Debug\netcoreapp3.1\TaraProduct.genruntimeconfig.cache
